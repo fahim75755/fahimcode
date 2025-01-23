@@ -2,7 +2,7 @@
 #include <stdlib.h>
 int main() {
     int i,j,mat1[10][10],mat2[10][10],mat3[10][10], row1,col1,row2,col2;
-    
+    //kk
     printf("number of rows in mat1 ");
     scanf("%d", &row1);
     printf("number of col in mat1 ");
